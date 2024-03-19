@@ -1,0 +1,92 @@
+#favicon{
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+
+body{
+  text-align: center;
+  font-size: 15px;
+  background-color: #fffefe;
+  border: 2px solid #ecbbd0;
+}
+
+h1{
+  color: #cb4399;
+  font-family: cursive;
+}
+
+h2{
+  color: #e170a1;
+  font-family: cursive;
+}
+
+h3{
+  color: #e580a3;
+  font-family: cursive;
+}
+
+h4{
+  color: #e996b3;
+  font-family: cursive;
+}
+
+h5{
+  color: #ec9cba;
+  font-family: cursive;
+}
+
+h6{
+  color: #f2b0c8 ;
+  margin-left: 200px;
+  margin-right: 200px;
+  line-height: 15px;
+  font-family: cursive;
+}
+
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+  color: #e6a7bd;
+  border-color: #f2e3ee;
+  width: 50%;
+  font-family: cursive;
+}
+
+#group{
+  margin-left: auto;
+  margin-right: auto;
+  color: #e6a7bd;
+  border-color: #f2e3ee;
+  width: 35%;
+  font-family: cursive;
+}
+
+
+p{
+  margin-left: 200px;
+  margin-right: 200px;
+  color: #ffc7d6;
+  font-size: 15px;
+  font-family: cursive;
+}
+
+#core{
+  margin-left: 350px;
+  margin-right: 350px;
+  font-family: cursive;
+}
+
+ul{
+  text-align: center;
+  list-style-position: inside;
+  list-style-type: circle;
+  font-family: cursive;
+}
+
+#tech{
+  margin-left: 400px;
+  margin-right: 400px;
+  font-family: cursive;
+}
